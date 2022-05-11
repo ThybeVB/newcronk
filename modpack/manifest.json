@@ -16,6 +16,14 @@
   "name": "Cronk VI",
   "files": [
     {
+      "projectID": 61811,
+      "fileID": 3204475,
+      "required": true,
+      "__meta": {
+        "name": "Buildcraft"
+      }
+    },
+    {
       "projectID": 223794,
       "fileID": 2747063,
       "required": true,
